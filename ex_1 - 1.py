@@ -32,3 +32,9 @@ def sk(strok):
 
 
 print(sk(input()))
+
+
+
+
+
+#gmfkgkgkhg
